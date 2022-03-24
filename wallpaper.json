@@ -8,7 +8,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -23,21 +23,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Eid Mubarak",
+      "image":"https://play-lh.googleusercontent.com/WMOzKkXlHT_Mt8r0xjhIlJdvUfJR2x5imJo_-0SCktijpxr2sU-ZWxYxmE0SIYSe-Oo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.qanjerumbi.EidMubarak.WallpaperHd"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Doa Sholat Tarawih",
+      "image":"https://play-lh.googleusercontent.com/iou8qoykM_wTFN5xpSfjzE9ZbqBv3tzVHHq7FIoDZ3aoD3NebqOIEYiK5xB7tt008DX2=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.doasholattarawih"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"	AlQuran 30 Juz Murottal MP3",
+      "image":"https://play-lh.googleusercontent.com/TcT6PxEHGWs1im58KCDn9uy8jpEIqsX9VJfBZDnx2oXNsuMcm7KijujS2tlD2IsELjxc=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.alquranindonesia.alquran30juz"
     }
   ],
 
